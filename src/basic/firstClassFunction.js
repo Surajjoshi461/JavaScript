@@ -6,7 +6,7 @@
 */
 
 /*
-    ~Assigning varible into function~
+    ~Assigning variable into function~
     */
 const greeting = () => {
   console.log("Hello World");
